@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const port = 4000;
 const express = require("express");
 const app = express();
@@ -12,8 +14,7 @@ app.use(cors());
 
 // Database Connection with MongoDB
 
-mongoose.connect("mongodb+srv://nourdyab99:nour6531123@cluster0.3jfjl8x.mongodb.net/kleidungsgeschäft")
-
+mongoose.connect(process.env.MONGODB_URI)
 //API Creation
 
 app.get("/", (req, res)=>{
@@ -184,7 +185,7 @@ app.post('/signup',async(req,res)=>{
         }
 
     }
-    const token = jwt.sign(data,'secret_ecom');
+    const token = jwt.sign(data, process.env.JWT_SECRET);
     res.json({success:true, token})
 })
 
@@ -220,7 +221,7 @@ const fetchUser = async (req,res,next)=>{
     }
     else{
         try {
-            const data=jwt.verify(token,'secret_ecom');
+            const data=jwt.verify(token, process.env.JWT_SECRET);
             req.user = data.user;
             next();
         } catch (error) {

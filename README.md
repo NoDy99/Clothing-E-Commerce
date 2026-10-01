@@ -1,4 +1,4 @@
-#Clothing E-Commerce Website
+## Clothing E-Commerce Website
 
 A full-stack clothing e-commerce web application developed as a university software engineering project.
 
@@ -267,15 +267,22 @@ Screenshots of the application can be added here.
 
 ### Login / Sign Up
 
-*Add screenshot here*
+![Login](Kleidungsgeschäft_UI/LoginPage.png)
+![Sign Up](Kleidungsgeschäft_UI/SignUpPage.png)
+
 
 ### Product Page
-
-*Add screenshot here*
+![Women Section](Kleidungsgeschäft_UI/WomenSection.png)
+![Men Section](Kleidungsgeschäft_UI/MenSection.png)
+![Product](Kleidungsgeschäft_UI/OneProduct.png)
 
 ### Shopping Cart
 
-*Add screenshot here*
+![Shopping Cart](Kleidungsgeschäft_UI/CartPage.png)
+
+###Footer
+
+![Footer](Kleidungsgeschäft_UI/Footer.png)
 
 ---
 

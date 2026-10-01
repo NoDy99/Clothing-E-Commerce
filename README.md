@@ -259,8 +259,6 @@ Security-related practices implemented in this project include:
 
 ## Screenshots
 
-Screenshots of the application can be added here.
-
 ### Home Page
 
 ![Hero Section](Kleidungsgeschäft_UI/HeroSection.png)
@@ -270,18 +268,15 @@ Screenshots of the application can be added here.
 ![Login](Kleidungsgeschäft_UI/LoginPage.png)
 ![Sign Up](Kleidungsgeschäft_UI/SignUpPage.png)
 
-
 ### Product Page
 ![Women Section](Kleidungsgeschäft_UI/WomenSection.png)
 ![Men Section](Kleidungsgeschäft_UI/MenProducts.png)
 ![Product](Kleidungsgeschäft_UI/OneProduct.png)
 
 ### Shopping Cart
-
 ![Shopping Cart](Kleidungsgeschäft_UI/CartPage.png)
 
-###Footer
-
+### Footer
 ![Footer](Kleidungsgeschäft_UI/Footer.png)
 
 ---

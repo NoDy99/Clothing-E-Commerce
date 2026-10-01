@@ -273,7 +273,7 @@ Screenshots of the application can be added here.
 
 ### Product Page
 ![Women Section](Kleidungsgeschäft_UI/WomenSection.png)
-![Men Section](Kleidungsgeschäft_UI/MenSection.png)
+![Men Section](Kleidungsgeschäft_UI/MenProducts.png)
 ![Product](Kleidungsgeschäft_UI/OneProduct.png)
 
 ### Shopping Cart

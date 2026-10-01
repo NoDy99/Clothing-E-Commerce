@@ -263,7 +263,7 @@ Screenshots of the application can be added here.
 
 ### Home Page
 
-![Hero Section](kleidungsgeschäft_UI/Hero Section.png)
+![Hero Section](Kleidungsgeschäft_UI/HeroSection.png)
 
 ### Login / Sign Up
 

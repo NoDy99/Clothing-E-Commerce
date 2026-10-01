@@ -263,7 +263,7 @@ Screenshots of the application can be added here.
 
 ### Home Page
 
-![HeroSection](klieidungsgeschft_UI/HeroSection.png)
+![Hero Section](klieidungsgeschft_UI/Hero Section.png)
 
 ### Login / Sign Up
 
